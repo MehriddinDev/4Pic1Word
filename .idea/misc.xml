@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/FourPicKOTLIN/app/src/main/res/drawable-v24/bg_answers.xml" value="0.1955" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FourPicKOTLIN/app/src/main/res/drawable-v24/bg_menu.xml" value="0.189" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FourPicKOTLIN/app/src/main/res/drawable-v24/bg_variants.xml" value="0.1955" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FourPicKOTLIN/app/src/main/res/drawable-v24/bg_win.xml" value="0.179" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FourPicKOTLIN/app/src/main/res/drawable-v24/coin1.xml" value="0.189" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FourPicKOTLIN/app/src/main/res/drawable-v24/selector_variants.xml" value="0.189" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FourPicKOTLIN/app/src/main/res/drawable-v24/shadow_answers_default.xml" value="0.189" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FourPicKOTLIN/app/src/main/res/drawable-v24/shadow_answers_wrong.xml" value="0.189" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FourPicKOTLIN/app/src/main/res/drawable/bg_dialog_ans.xml" value="0.189" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FourPicKOTLIN/app/src/main/res/drawable/bg_next_btn_dialog.xml" value="0.189" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FourPicKOTLIN/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FourPicKOTLIN/app/src/main/res/layout/activity_about2.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FourPicKOTLIN/app/src/main/res/layout/activity_game.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FourPicKOTLIN/app/src/main/res/layout/activity_game2.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FourPicKOTLIN/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FourPicKOTLIN/app/src/main/res/layout/activity_splash.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FourPicKOTLIN/app/src/main/res/layout/view_win.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FourPicKOTLIN/app/src/main/res/layout/view_win_next.xml" value="0.18" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FourPicKOTLIN/app/src/main/res/layout/viewe_win_end.xml" value="0.1984375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
